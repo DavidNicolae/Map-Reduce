@@ -1,0 +1,9 @@
+out/
+src/tests
+src/in1.txt
+src/in2.txt
+src/in3.txt
+src/input.txt
+src/output.txt
+.idea
+Tema2.iml
